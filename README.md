@@ -15,7 +15,8 @@ SMGNet: A Mamba-Driven Graph Framework for Multi-Scale and Cross-Variable Long-T
 ```bash
 python train_GCTAM.py
 
-# Dataset
+
+## Dataset
 
 | Dataset | Channels | Interval      | Timesteps         | Forecast Length |
 |--------|-------------|----------|----------------|----------|
