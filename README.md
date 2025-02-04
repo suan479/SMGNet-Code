@@ -12,13 +12,10 @@ SMGNet: A Mamba-Driven Graph Framework for Multi-Scale and Cross-Variable Long-T
 * torch==1.9.0
 
 ## Training
-```bash
+```bash```
 python train_GCTAM.py
 
-
 ## Dataset
-
-
 | Dataset | Channels | Interval      | Timesteps         | Forecast Length |
 |--------|-------------|----------|----------------|----------|
 | ETTh1  |7| 1 hour |17420| 96,192,336,720|
