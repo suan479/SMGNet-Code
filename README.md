@@ -5,11 +5,13 @@ SMGNet: A Mamba-Driven Graph Framework for Multi-Scale and Cross-Variable Long-T
 ![Overview of GCTAM](fig_framework.png)
 
 ## Running Environment
-*numpy
-*matplotlib
-*pandas
-*scikit-learn
-*torch==2.4.1
+* python 3.10.15
+* torch 1.13.1+cu117
+* dgl 1.0.1+cu117
+* torch_geometric 2.3.1
+* networkx 2.6.3
+* scikit-learn 1.0.2
+* scipy 1.9.0
 
 ## Training
 ```bash
