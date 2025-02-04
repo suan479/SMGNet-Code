@@ -24,4 +24,5 @@ python run_longExp.py
 | Electricity  |321 |1 hour| 26304| 96,192,336,720|
 | Traffic |862 | 1 hour |17544 |96,192,336,720|
 
+The datasets supporting this study are openly available. ETT: \url{https: //github. com/zhouhaoyi/ETDataset}. Traffic: \url{http: //pems. dot. ca. gov}. Weather: \url{https: //www. bgc-jena. mpg. de/wetter}. Electricity: \url{https: //archive. ics. uci. edu/ml/datasets/ElectricityLoadDiagrams20112014}.
 
