@@ -1,19 +1,17 @@
 # SMGNet-Code
-SMGNet: A Mamba-Driven Graph Framework for Multi-Scale and Cross-Variable Long-Term Time Series Forecasting. The code will be made available in the near future.
-
+SMGNet: A Mamba-Enhanced Graph Approach for Multi-Variable Long-Term Time Series Forecasting
 ## Overview
-![Overview of GCTAM](fig_framework.png)
+![Overview of SMGNet](fig_framework.png)
 
 ## Running Environment
 * numpy
 * matplotlib
 * pandas
 * scikit-learn
-* torch==1.9.0
+* torch==2.4.1
 
 ## Training
-```bash```
-python train_GCTAM.py
+python run_longExp.py
 
 ## Dataset
 | Dataset | Channels | Interval      | Timesteps         | Forecast Length |
