@@ -1,7 +1,7 @@
 # SMGNet-Code
 SMGNet: A Mamba-Enhanced Graph Approach for Multi-Variable Long-Term Time Series Forecasting
 ## Overview
-![Overview of SMGNet](fig2 .pdf)
+![Overview of SMGNet](SMGNet.pdf)
 
 ## Running Environment
 * numpy
