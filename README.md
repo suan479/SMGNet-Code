@@ -26,8 +26,8 @@ python run_longExp.py
 
 The datasets supporting this study are openly available.
 
-- ETT: [ETDataset](https://github.com/zhouhaoyi/ETDataset)
-- Traffic: [PEMS Traffic Data](http://pems.dot.ca.gov)
-- Weather: [Jena Weather Data](https://www.bgc-jena.mpg.de/wetter)
-- Electricity: [Electricity Load Diagrams 2011-2014](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014)
+- ETT: [ETT Data](https://github.com/zhouhaoyi/ETDataset)
+- Traffic: [Traffic Data](http://pems.dot.ca.gov)
+- Weather: [Weather Data](https://www.bgc-jena.mpg.de/wetter)
+- Electricity: [Electricity Data](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014)
 
